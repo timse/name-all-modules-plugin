@@ -1,6 +1,6 @@
 {
   "name": "name-all-modules-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Names all remaining modules that do not get named via NamedModulesPlugin Edit",
   "main": "index.js",
   "repository": "git@github.com:timse/name-all-modules-plugin.git",
